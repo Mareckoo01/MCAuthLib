@@ -1,12 +1,2 @@
-# MCAuthLib
-MCAuthLib is a library for authentication with Minecraft accounts. It is used in projects such as MCProtocolLib to handle authenticating users.
-
-## Example Code
-See example/com/github/steveice10/mc/auth/test
-
-## Building the Source
-MCAuthLib uses Maven to manage dependencies. Simply run 'mvn clean install' in the source's directory.
-
-## License
-MCAuthLib is licensed under the **[MIT license](http://www.opensource.org/licenses/mit-license.html)**.
-
+# Branch names are not exact versions!!!
+## Used in [my MCProtocolLib repo](https://github.com/Mareckoo01/MCProtocolLib)
